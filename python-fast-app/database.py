@@ -5,11 +5,11 @@ import time
 time.sleep(5)  # Adjust the delay as needed
 # Database connection configuration
 db_config = {
-    "host": "nahiyan-pyapp-db.cpsvhbrundlq.eu-north-1.rds.amazonaws.com",
+    "host": "localhost",
     "port": 3306,
     "user": "root",
-    "password": "bjit1234",
-    "database": "movieDB",
+    "password": "root",
+    "database": "moviedb",
 }
 
 # Establish a database connection
