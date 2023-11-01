@@ -6,10 +6,10 @@ from pydub.playback import play
 
 # Database connection details
 db_connection = {
-    "host": "mysql-service",
+   "host": "localhost",
     "port": 3306,
-    "user": "scraper",
-    "password": "123",
+    "user": "root",
+    "password": "root",
     "database": "collection",
 }
 
