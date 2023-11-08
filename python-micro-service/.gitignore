@@ -20,6 +20,8 @@ site_build
 venv
 docs.zip
 archive.zip
+nohup.out
+streamlit.log
 
 # vim temporary files
 *~

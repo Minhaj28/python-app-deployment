@@ -7,8 +7,8 @@ from io import BytesIO
 db_connection = {
     "host": "localhost",
     "port": 3306,
-    "user": "root",
-    "password": "root",
+    "user": "admin",
+    "password": "admin",
     "database": "collection",
 }
 
